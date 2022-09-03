@@ -1,8 +1,11 @@
 ---
-title: Architecture
-category: Video
-category_slug: video
-type: video
-image: assets/img/works/work6.jpg
-video: https://vimeo.com/97102654
+title: Coming Soon
+category: Machine Learning
+category_slug: machine_learning
+type: content
+image: assets/img/works/comingsoon.png
+button_url: http://datastory.ch
 ---
+
+The content of realized projects will come soon. Be patient! 
+
