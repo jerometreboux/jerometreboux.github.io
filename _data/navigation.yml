@@ -13,11 +13,6 @@ main:
     slug: "about"
     sections:
         - about
-        - services
-        - pricing
-        - facts
-        - clients
-        - testimonials
   
   #resume card
   - title: "Resume"
@@ -34,12 +29,6 @@ main:
     sections:
         - portfolio
   
-  #blog card
-  - title: "Blog"
-    icon: "chatbox-working"
-    slug: "blog"
-    sections:
-        - blog
   
   #contact card
   - title: "Contact"
