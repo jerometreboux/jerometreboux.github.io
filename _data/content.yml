@@ -295,6 +295,12 @@ skills:
         - label: "Latex"
           value: "100" #0-100 progress in %
 
+        - label: "Java"
+          value: "100" #0-100 progress in %
+
+        - label: "C#"
+          value: "50" #0-100 progress in %
+
     - type: "list" #skills progress type - default, dotted, circles, list
       title: "Knowledge"
       icon: "android-list"
