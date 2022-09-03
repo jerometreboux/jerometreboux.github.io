@@ -328,22 +328,6 @@ portfolio:
       slug: "grid-item"
       active: 1
 
-    - name: "Photo"
-      slug: "photo"
-      active: 0
-
-    - name: "Video"
-      slug: "video"
-      active: 0
-
-    - name: "Music"
-      slug: "music"
-      active: 0
-
-    - name: "Design"
-      slug: "design"
-      active: 0
-
 ### Blog [ blog ]
 blog:
   title: "Latest Posts"
@@ -353,13 +337,13 @@ contacts_info:
   title: "Get in Touch"
   list:
     - label: "Address"
-      value: "California, USA"
+      value: "Rue de Villa 3, 3960 Sierre, Switzerland"
 
     - label: "Email"
-      value: "adlard@example.com"
+      value: "treboux.jerome@gmail.com"
 
     - label: "Phone"
-      value: "+123 654 78900"
+      value: "+41 79 265 3002"
 
     - label: "Freelance"
       value: "Available"
