@@ -8,21 +8,21 @@ about:
   title: "About Me"
   text: "
         <p>
-          <strong>Hello! I’m Ryan Adlard.</strong><br> Web designer from USA, California. I have rich experience in web site design and building, also I am good at wordpress. I love to talk with you about our unique.
+          <strong>Hello! I’m Jerome Treboux.</strong><br> Data Scientist and Entrepreneur from Switzerland. I have strong knowledge and rich experience in Data Science and in startup creations. I'm currently looking for new challenges in a dynamic company.
         </p>
         "
   list:
     - label: "Age"
-      value: "24"
+      value: "33"
 
     - label: "Residence"
-      value: "USA"
+      value: "Switzerland"
 
     - label: "Freelance"
       value: "Available"
 
     - label: "Address"
-      value: "California, USA"
+      value: "Rue de Villa 3, 3960 Sierre, Switzerland"
 
 ### Services [ services ]
 services:
@@ -166,126 +166,158 @@ resume:
     title: "Experience"
     icon: "briefcase"
     items:
-      - year: "2013 - Present"
-        role: "Art Director"
-        company: "Facebook Inc."
-        text: "Collaborate with creative and development teams on the execution of ideas."
+      - year: "2016 - Present"
+        role: "Founding Partner"
+        company: "Datastory"
+        text: "Founder of the company, Data Scientist for image analysis projects."
         active: 1
         h_line: 1
 
-      - year: "2011 - 2012"
-        role: "Front-end Developer"
-        company: "Google Inc."
-        text: "Monitored technical aspects of the front-end delivery for several projects."
+      - year: "2012 - Present"
+        role: "Research Assistant"
+        company: "HES-SO Valais"
+        text: "Data Scientist for various Machine Learning projects"
+        active: 1
+        h_line: 1
+
+      - year: "2017 - 2022"
+        role: "Command Sergeant Major"
+        company: "Swiss Armed Forces"
+        text: "Senior Enlisted Leader to the Battalion Commander"
+        active: 0
+        h_line: 0
+
+      - year: "2009 - 2017"
+        role: "Quartermaster Sergeant"
+        company: "Swiss Armed Forces"
+        text: "Higher NCO who administers finances, subsistence and lodging"
         active: 0
         h_line: 1
 
-      - year: "2009 - 2010"
-        role: "Senior Developer"
-        company: "Abc Inc."
-        text: "Optimize website performance using latest technology."
+      - year: "2011 - 2012"
+        role: "Workstudent"
+        company: "IBM Switzerland"
+        text: "Integrated Technology Delivery and Server Systems Operations"
         active: 0
         h_line: 0
+
+#      - year: "2007 - 2008"
+#        role: "IT-Specialist"
+#        company: "IBM Switzerland"
+#        text: "Project Manager for banking applications development"
+#        active: 0
+#        h_line: 0
+
+#      - year: "2004 - 2008"
+#        role: "IT-Specialist Apprentice"
+#        company: "IBM Switzerland"
+#        text: "Apprentice from IT technical fields to development with an overview of Project Management"
+#        active: 0
+#        h_line: 0
+
   education:
     title: "Education"
     icon: "university"
     items:
-      - year: "2006 - 2008"
-        institution: "Art University"
-        city: "New York"
-        text: "Bachelor's Degree in Computer Science ABC Technical Institute, Jefferson, Missouri"
+      - year: "2016 - Present"
+        institution: "PhD Student - University of Fribourg"
+        city: "Fribourg"
+        text: "Vine Line Detection in Aerial Images using Advanced Machine Learning Algorithms"
         h_line: 1
 
-      - year: "2005 - 2006"
-        institution: "Programming Course"
-        city: "Paris"
-        text: "Coursework - Git, WordPress, Javascript, iOS, Android."
+      - year: "2012 - 2014"
+        institution: "MSc BA - HES-SO // Master"
+        city: "Lausanne"
+        text: "Master of Science in Business Administration - Management of Informations Systems"
         h_line: 1
 
-      - year: "2004 - 2005"
-        institution: "Web Design Course"
-        city: "London"
-        text: "Converted Photoshop layouts to web pages using HTML, CSS, and JavaScript"
+      - year: "2009 - 2012"
+        institution: "BSc BIT - HES-SO // Valais"
+        city: "Sierre"
+        text: "Bachelor of Science in Business Information Technology"
         h_line: 0
 
 ### Skills [ skills ]
 skills:
   title: "My Skills"
   columns:
-    - type: "default" #skills progress type - default, dotted, circles, list
-      title: "Design"
-      icon: "easel"
-      items:
-        - label: "Web Design"
-          value: "90" #0-100 progress in %
-
-        - label: "Write Music"
-          value: "65" #0-100 progress in %
-
-        - label: "Photoshop"
-          value: "75" #0-100 progress in %
-
-        - label: "Graphic Design"
-          value: "85" #0-100 progress in %
-
+#    - type: "default" #skills progress type - default, dotted, circles, list
+#      title: "Design"
+#      icon: "easel"
+#      items:
+#        - label: "Web Design"
+#          value: "90" #0-100 progress in %#
+#
+#        - label: "Write Music"
+#          value: "65" #0-100 progress in %##
+#
+#        - label: "Photoshop"
+#          value: "75" #0-100 progress in %
+#
+#        - label: "Graphic Design"
+#          value: "85" #0-100 progress in %
+#
     - type: "dotted" #skills progress type - default, dotted, circles, list
       title: "Languages"
       icon: "flag"
       items:
+
+        - label: "French"
+          value: "100" #0-100 progress in %
+
         - label: "English"
           value: "90" #0-100 progress in %
 
         - label: "German"
-          value: "60" #0-100 progress in %
+          value: "50" #0-100 progress in %
 
         - label: "Italian"
-          value: "30" #0-100 progress in %
+          value: "20" #0-100 progress in %
 
-        - label: "French"
-          value: "70" #0-100 progress in %
+        
 
     - type: "circles" #skills progress type - default, dotted, circles, list
       title: "Coding"
       icon: "code"
       items:
-        - label: "WordPress"
-          value: "90" #0-100 progress in %
+        - label: "KNIME"
+          value: "100" #0-100 progress in %
 
         - label: "PHP / MYSQL"
-          value: "75" #0-100 progress in %
+          value: "80" #0-100 progress in %
 
-        - label: "Angular / JavaScript"
-          value: "85" #0-100 progress in %
-
-        - label: "HTML / CSS"
+        - label: "Python"
           value: "95" #0-100 progress in %
+
+        - label: "Julia"
+          value: "95" #0-100 progress in %
+
+        - label: "Latex"
+          value: "100" #0-100 progress in %
 
     - type: "list" #skills progress type - default, dotted, circles, list
       title: "Knowledge"
       icon: "android-list"
       items:
-        - label: "Website hosting"
+        - label: "Machine Learning"
           value: "" #0-100 progress in %
 
-        - label: "iOS and android apps"
+        - label: "Neural Network (ANN, CNN)"
           value: "" #0-100 progress in %
 
-        - label: "Create logo design"
+        - label: "Decision Trees"
           value: "" #0-100 progress in %
 
-        - label: "Design for print"
+        - label: "RapidMiner"
           value: "" #0-100 progress in %
 
-        - label: "Modern and mobile-ready"
+        - label: "Microsoft Power BI"
           value: "" #0-100 progress in %
 
-        - label: "Advertising services include"
+        - label: "Jupyter Notebook"
           value: "" #0-100 progress in %
 
-        - label: "Graphics and animations"
-          value: "" #0-100 progress in %
-
-        - label: "Search engine marketing"
+        - label: "Dataiku"
           value: "" #0-100 progress in %
 
 ### Portfolio [ portfolio ]
