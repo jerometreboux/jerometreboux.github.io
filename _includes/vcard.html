@@ -38,7 +38,7 @@
     <!-- profile buttons -->
     <div class="lnks">
       {% for button in vcard.buttons %}
-      <a href="{{ button.url }}" class="lnk">
+      <a target="_blank" href="{{ button.url }}" class="lnk">
         <span class="text">{{ button.title }}</span>
         {% if button.icon != '' %}
         <span class="ion ion-{{ button.icon }}"></span>
