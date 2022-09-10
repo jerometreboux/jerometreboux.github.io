@@ -18,11 +18,11 @@ about:
     - label: "Residence"
       value: "Switzerland"
 
-    - label: "Freelance"
-      value: "Available"
+    - label: "Status"
+      value: "Open to work"
 
-    - label: "Address"
-      value: "Rue de Villa 3, 3960 Sierre, Switzerland"
+    - label: "Current location"
+      value: "3960 Sierre, Switzerland"
 
 ### Services [ services ]
 services:
@@ -342,8 +342,8 @@ blog:
 contacts_info:
   title: "Get in Touch"
   list:
-    - label: "Address"
-      value: "Rue de Villa 3, 3960 Sierre, Switzerland"
+    - label: "Current location"
+      value: "3960 Sierre, Switzerland"
 
     - label: "Email"
       value: "treboux.jerome@gmail.com"
@@ -351,8 +351,8 @@ contacts_info:
     - label: "Phone"
       value: "+41 79 265 3002"
 
-    - label: "Freelance"
-      value: "Available"
+    - label: "Status"
+      value: "Open to work"
 
 ### Contact Form [ contacts-form ]
 contacts_form:
